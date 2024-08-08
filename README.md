@@ -1,3 +1,9 @@
+# ios-calculadora
+
+[![cal.png](https://i.postimg.cc/yNT4zqQd/cal.png)](https://postimg.cc/06rHp4qR)
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
